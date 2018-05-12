@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/264
     wikipedia: http://en.wikipedia.org/wiki/Dinah_Craik
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44557#An-Unsentimental-Journey-through-Cornwall
 gutenberg_issued: '2014-01-01'
 gutenberg_type: Text
 identifiers:
